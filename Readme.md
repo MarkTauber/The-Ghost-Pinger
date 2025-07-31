@@ -187,7 +187,7 @@ Scan completed: 31.01.2025 15:15:56,78
 
 <br>
 
-## Структура проекта
+## Project structure
 
 ```
 GhostPinger/
