@@ -183,7 +183,8 @@ Scan completed: 31.01.2025 15:15:56,78
 
 ```
 GhostPinger/
-├── GhostPinger.bat # Основной скрипт
+├── Ghost_pinger.bat # Основной скрипт
+├── Ghost_min.bat # Урезанная версия
 └── README.md # Документация
 ```
 
