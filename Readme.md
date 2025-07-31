@@ -6,9 +6,9 @@
 
 ## 🌐 Language Versions
 
-- 🇬🇧 [English (default)](README.md)
-- 🇷🇺 [Русский](README_ru.md)
-- 🇨🇳 [中文](README_ch.md)
+- 🇬🇧 [English (default)](Readme.md)
+- 🇷🇺 [Русский](Readme_ru.md)
+- 🇨🇳 [中文](Readme_ch.md)
 
 **Ghost Pinger** is a standalone Windows batch script (`cmd`) designed for network reconnaissance by an internal attacker. It detects active hosts in a local network without third-party tools, making it ideal for restricted environments with minimal privileges and strict security controls.
 
