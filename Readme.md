@@ -1,7 +1,7 @@
 # Ghost Pinger - Silent Local Network Scanner (for Internal Threat Scenarios)
 
 ![Windows Batch](https://img.shields.io/badge/Windows-Batch-blue)
-![No Dependencies](https://img.shields.io/badge/No_Dependencies-None-green)
+![No Dependencies](https://img.shields.io/badge/Dependencies-None-green)
 ![Stealth Mode](https://img.shields.io/badge/Mode-Stealth-yellow)
 
 ## 🌐 Language Versions
@@ -205,3 +205,4 @@ GhostPinger/
 
 > **Ghost Pinger** - your silent flashlight in the dark corporate network.  
 > Turn it on - and find out who else is "alive" nearby.
+
